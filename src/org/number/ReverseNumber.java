@@ -18,6 +18,9 @@ public class ReverseNumber {
 	            num /= 10;
 	        }
 	        
+	        System.out.println("if number is even");
+	        
+	        
 	        if (original == reverse) {
 	            System.out.println(original + " is a reverse number.");
 	        } else {
