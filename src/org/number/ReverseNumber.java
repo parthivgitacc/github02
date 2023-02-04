@@ -18,8 +18,16 @@ public class ReverseNumber {
 	            num /= 10;
 	        }
 	        
-	        System.out.println("if number is odd");
 	        
+	        System.out.println("if number is even");
+	        
+	        System.out.println("if number is odd");
+//<<<<<<< HEAD
+//	       
+//=======
+//	        
+//>>>>>>> 25a4b6bad82f389a397b86c5872b548ffa1c8c22
+//	        
 	        
 	        if (original == reverse) {
 	            System.out.println(original + " is a reverse number.");
